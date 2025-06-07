@@ -1,4 +1,4 @@
-# Turtle Crossing Game 🐢🚗
+# 🐢 Turtle Crossing Game 🚗
 
 A simple arcade-style game built using Python's Turtle Graphics library.
 
